@@ -36,7 +36,7 @@ Coded by Creative Tim
                     <div class="card card-login">
                         <form class="form" method="" action="">
                             <div class="card-header card-header-primary text-center">
-                                <h4 class="card-title">You're Here!</h4>
+                                <h4 class="card-title">Adult?</h4>
                                 <div class="social-line">
                                     <a href="#pablo" class="btn btn-just-icon btn-link">
                                         <i class="fa fa-facebook-square"></i>
@@ -49,7 +49,7 @@ Coded by Creative Tim
                                     </a>
                                 </div>
                             </div>
-                            <p class="description text-center">Or Be Classical</p>
+                            <p class="description text-center">Are you sure?</p>
                             <div class="card-body">
                                 <div class="input-group">
                                     <div class="input-group-prepend">
